@@ -1,0 +1,6 @@
+@define-color selected-text #8da1c8; /* highlight color */
+@define-color text #eff3f8; /* main text */
+@define-color base #182538; /* dark base/background */
+@define-color border #6cabda; /* visible border */
+@define-color foreground #eff3f8; /* foreground text */
+@define-color background #182538; /* main background */
